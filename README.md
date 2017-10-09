@@ -1,3 +1,3 @@
 # Hello-world
 just a try
-I just want to make some modification and try the function of 'changes commition'.
+I use this step to get more familiar with the version-change management of github-so far it works cool
